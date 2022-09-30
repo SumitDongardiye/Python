@@ -1,0 +1,8 @@
+print("Hello World")
+print(1+2)
+print(10*3)
+print()
+print("PrepInsta")
+print("is")
+print("Best")
+print("Sumit","is","the","best")
